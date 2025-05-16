@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Sleep_Hours",
+    "type": "float",
+    "min": 0,
+    "max": 12,
+    "active": true,
+    "introduced_on": "2025-05-01",
+    "retired_on": null
+  },
+  {
+    "name": "Exercise",
+    "type": "bool",
+    "active": true,
+    "introduced_on": "2025-05-01",
+    "retired_on": null
+  },
+  {
+    "name": "Screen_Time_Hours",
+    "type": "float",
+    "min": 0,
+    "max": 15,
+    "active": true,
+    "introduced_on": "2025-05-01",
+    "retired_on": null
+  },
+  {
+    "name": "Stress_Level",
+    "type": "int",
+    "min": 1,
+    "max": 5,
+    "active": true,
+    "introduced_on": "2025-05-01",
+    "retired_on": null
+  },
+  {
+    "name": "Mood",
+    "type": "int",
+    "min": -3,
+    "max": 3,
+    "active": true,
+    "introduced_on": "2025-05-01",
+    "retired_on": null
+  }
+]
