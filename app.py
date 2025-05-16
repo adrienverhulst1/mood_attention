@@ -14,7 +14,7 @@ LOG_PATH = "mood_log.csv"
 MIN_ENTRIES_FOR_TRAINING = 10
 
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
+def main():
     # Generate dummy data
     #generator = MoodDatasetGenerator(num_days=360)
     #df = generator.generate()
